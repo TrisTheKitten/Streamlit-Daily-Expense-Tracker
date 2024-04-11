@@ -1,6 +1,6 @@
 **Streamlit-Daily-Expense-Tracker**
 
-Daily Expense Tracker using SQLAlchemy for database, Streamlit for GUI, and matplotlib for data visualization.
+Daily Expense Tracker using SQLAlchemy for database, Streamlit for GUI, and plotly for data visualization.
 
 **Get Started**
 
