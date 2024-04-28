@@ -4,7 +4,7 @@ Daily Expense Tracker using SQLAlchemy for database, Streamlit for GUI, and plot
 
 **Get Started**
 
-1. Clone the repository: `git clone https://github.com/your-username/Streamlit-Daily-Expense-Tracker.git`
+1. Visit the project's releases page and clone the repository
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Double-click the "run.bat" file to launch the application and begin your experience.
    
